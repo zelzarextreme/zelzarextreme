@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hello,+There!+👋;I+am+Priyansh+Kedia....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Hello,+There!+👋;I+am+Vedant+Tripathi....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -69,12 +69,4 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Priyansh-Kedia&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<!-- <hr> -->
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<!-- ![Metrics](https://metrics.lecoq.io/Priyansh-Kedia?template=classic&base.metadata=0&notable=1&gists=1&notable.repositories=false&config.timezone=Asia%2FCalcutta) -->

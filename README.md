@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zelzarextreme
 - 👀 I’m interested in  Backend web development, Machine Learning and Competitive Programming
-- 🌱 I’m currently learning Backend web frameworks like Django, trying LeetCode, and Andrew Ng's Deep Learning Course.
-- 💞️ I’m looking to collaborate on Projects which require backend work or ML work.
+- 🌱 I’m currently working on freelance projects in Django, applying deep learning and computer vision at CEERI, and am an intern at Datafortune.
+- 💞️ I’m looking to collaborate on Projects which require backend work,ML work or a combination of the two.
 - 📫 How to reach me vedant.tripathi02@gmail.com
 
 <!---
